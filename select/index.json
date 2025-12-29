@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "世界を救うヒーローになりたい",
+  "base_artist": "友利 あゆ",
+  "createdAt": "2025-12-29T14:14:26.108230Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界を救うヒーローになりたい",
+      "artist": "友利あゆ",
+      "has_synced": false,
+      "path": "select/pl_01_世界を救うヒーローになりたい_友利あゆ.txt"
+    }
+  ]
+}
